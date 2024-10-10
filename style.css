@@ -1,0 +1,77 @@
+
+/* Navigation */
+.navigation{
+    background-color: lightgrey;
+    width: 100vw;
+    height: 26px;
+    margin-top: -8px;
+    margin-left: -8px;
+    padding-top: 0;
+    display: flex;
+    justify-content: center;
+    background-color:#0D1117 ;
+    color: #0078d4;
+}
+
+.navigation a{
+    display: inline-block;
+    color: black;
+    background-color: grey;
+    border: black solid 1px;
+    width: 60px;padding-left: 30px;
+    padding-right: 30px;
+    height: 20px;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+/* Main  */
+
+.Main{
+
+height: 100vh;
+}
+
+h1{
+    padding-top: 120px;
+    text-align: center;
+}
+
+.button{
+    display: inline-block;
+height: 150px;
+width: 150px;
+cursor: pointer;
+border: black 3px solid;
+
+
+}
+
+#grey{
+background-color: grey;
+
+}
+
+#white{
+background-color: white;
+
+}
+
+#blue{
+background-color: blue;
+}
+#yellow{
+background-color: yellow;
+
+}
+
+h2{
+    padding-top: 80px;
+text-align: center;
+}
+
+h2 span{
+text-align: center;
+    
+}
